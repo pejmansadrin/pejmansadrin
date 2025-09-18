@@ -27,8 +27,8 @@ I’m actively seeking internship or junior developer opportunities where I can 
 -   Infrastructure as Code (IaC) with Terraform
 -   Foundations of Machine Learning & Neural Networks
 
-## 🚀 Projects
-*Showcase of projects demonstrating algorithmic solutions and system tools coming soon!*
+##
+
 
 ## 📫 How to Reach Me
 <p align="left">
